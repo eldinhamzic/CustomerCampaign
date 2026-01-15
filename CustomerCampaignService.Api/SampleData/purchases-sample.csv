@@ -1,0 +1,6 @@
+CustomerId,TransactionId,PurchaseDate,Amount,Currency,Channel,StoreId,AgentNote
+5,TX-1001,2026-01-13T10:15:00Z,49.99,EUR,Online,WEB-01,"first purchase"
+6,TX-1002,2026-01-13T12:42:00Z,120.00,EUR,Store,ST-204,"promo, spring"
+7,"TX-1003-A",2026-01-14T09:05:00Z,15.50,EUR,Online,WEB-02,"repeat"
+8,TX-1004,2026-01-15T18:20:00Z,300.00,EUR,Partner,PR-77,"high value"
+9,TX-1005,2026-01-15T20:01:00Z,5.00,EUR,Online,WEB-01,"late checkout"
