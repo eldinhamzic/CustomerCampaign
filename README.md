@@ -1,3 +1,4 @@
+
 # Customer Campaign Service
 
 Backend interview assignment that demonstrates a complete campaign and rewards flow with authentication, role-based authorization, CSV import, and external SOAP validation.
@@ -167,3 +168,6 @@ This project demonstrates:
 - External SOAP integration
 - CSV file handling
 - Clean and testable API design
+=======
+
+
